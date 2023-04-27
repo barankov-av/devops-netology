@@ -16,3 +16,4 @@ override.tf.json -игнорировать все файлы override.tf.json
 
 .terraformrc -игнорировать все файлы с расширением terraformrc  
 terraform.rc -игнорировать все файлы terraform.rc  
+new line
